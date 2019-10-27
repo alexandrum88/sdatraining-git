@@ -1,3 +1,6 @@
 First Line in the first file
 
 Linia de a doua zi :)
+
+
+@Stefan: Am adaut o noua linie
